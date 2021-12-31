@@ -1,0 +1,40 @@
+{
+  "vehicles": {
+    "vehicle": [
+      {
+        "vehicleId": "102",
+        "vehicleDetails": {
+          "make": "Ford",
+          "model": "Edge",
+          "modelYear": "2019",
+          "bodyStyle": "4D Sport Utility",
+          "engine": "Twin-Scroll 2.0L EcoBoost",
+          "drivetype": "AWD",
+          "color": "Agate Black",
+          "MPG": "28",
+          "vehicleFeature": {
+            "Exterior": [
+              "Beltline Molding - Black",
+              "Door Handles - Body Color",
+              "Grille - Chrome",
+              "Taillamps-Led"
+            ],
+            "Interior": [
+              "60/40 Split Fold Rear Seat",
+              "Cruise Control",
+              "Dual Illum Vis Vanity Mirr",
+              "Rotary Gear Shift Dial"
+            ]
+          },
+          "vehiclePrice": [
+            {
+              "MSRP": "$30,000.00",
+              "Savings": "$2000",
+              "finalPrice": "$28,000.00"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
